@@ -34,7 +34,7 @@ import static org.hamcrest.core.IsAnything.anything;
 @RunWith(AndroidJUnit4.class)
 public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActivity> {
 
-    private static final int MAX_ITERATION_FOR_CHECK = 20;
+    private static final int MAX_ITERATION_FOR_CHECK = 10;
 
 
     public MainActivityTest() {
